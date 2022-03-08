@@ -20,7 +20,7 @@ I have also condensed multiple CSS elements so it is less messy into one catagor
 2. Added semantic HTML and CSS.
 3. Condensed complementary CSS into simpler CSS styles to make it look cleaner.
 4. Added informative alternative texts to images which will help users with vision impairments.
-5. Commented throughout CSS and HTML
+5. Commented throughout CSS and HTML.
 ```
 
 ## Web App Overview
