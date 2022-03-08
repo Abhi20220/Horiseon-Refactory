@@ -18,7 +18,7 @@ I have also condensed multiple CSS elements so it is less messy into one catagor
 ```
 1. Added a title to the Horiseon webpage.
 2. Added semantic HTML and CSS.
-3. Condenced complementary CSS into simpler CSS styles to make it look cleaner.
+3. Condensed complementary CSS into simpler CSS styles to make it look cleaner.
 4. Added informative alternative texts to images which will help users with vision impairments.
 5. Commented throughout CSS and HTML
 ```
