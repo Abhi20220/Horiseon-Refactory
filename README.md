@@ -1,7 +1,7 @@
 # Horiseon-Refactory HTML and CSS Optimization
 
 ## Website URL
-https://abhi20220.github.io/Horiseon-Refactory/\
+https://abhi20220.github.io/Horiseon-Refactory/
 
 ## Goals
 I built this project because the client wanted their site to have accessibility standards for users that may have an impairment. 
