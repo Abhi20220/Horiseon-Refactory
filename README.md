@@ -17,4 +17,5 @@ I have also condensed multiple CSS elements so it is less messy into one catagor
 
 ## Web App Overview
 
-![Horiseon webpage includes a navigational bar, title, main image and cards with texts at the bottom part of the website.](/assets/images/top-half.jpg)
+![Horiseon webpage includes a navigational bar, title, main image and cards with texts at the bottom part of the website.](./Develop/assets/images/top-half.jpg)
+gi
